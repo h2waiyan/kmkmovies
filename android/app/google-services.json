@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677444936706",
+    "project_id": "eveningmovies-56845",
+    "storage_bucket": "eveningmovies-56845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677444936706:android:0c4d181ab7d24d3d72331b",
+        "android_client_info": {
+          "package_name": "com.example.moviesdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRivGpSBbtyOdX1KJIWzbnMFnXI9VnhA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
